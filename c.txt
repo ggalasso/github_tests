@@ -1,1 +1,3 @@
 this is the c file created in the experiment branch
+eliminate waste
+create opportunities
